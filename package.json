@@ -7,7 +7,7 @@
     "start": "nodemon server.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "es6-promise": "^4.2.5",
     "express": "^4.16.4",
     "express-graphql": "^0.7.1",
